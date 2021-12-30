@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A2FB63D277DCC6100BB2885 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A2FB63C277DCC6100BB2885 /* MotionAnimationView.swift */; };
 		9AC1625D277CA3420054E931 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC1625C277CA3420054E931 /* AfricaApp.swift */; };
 		9AC1625F277CA3420054E931 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC1625E277CA3420054E931 /* ContentView.swift */; };
 		9AC16261277CA3440054E931 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AC16260277CA3440054E931 /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A2FB63C277DCC6100BB2885 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		9AC16259277CA3420054E931 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC1625C277CA3420054E931 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		9AC1625E277CA3420054E931 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				9AC162AD277CCAB40054E931 /* VideoListItemView.swift */,
 				9AC162AF277CCEB30054E931 /* VideoPlayerView.swift */,
 				9AC162B6277CD54A0054E931 /* MapAnnotationView.swift */,
+				9A2FB63C277DCC6100BB2885 /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				9AC162A4277CB3C70054E931 /* InsetGalleryView.swift in Sources */,
 				9AC162AE277CCAB40054E931 /* VideoListItemView.swift in Sources */,
 				9AC1629A277CAB510054E931 /* CodableBundleExtension.swift in Sources */,
+				9A2FB63D277DCC6100BB2885 /* MotionAnimationView.swift in Sources */,
 				9AC162A2277CB3270054E931 /* HeadingView.swift in Sources */,
 				9AC162B0277CCEB30054E931 /* VideoPlayerView.swift in Sources */,
 			);
